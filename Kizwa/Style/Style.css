@@ -1,0 +1,154 @@
+﻿        .logindiv
+        {
+            margin-top: 10em;
+        }
+        input[type=text], input[type=password] {
+            width: 100%;
+            padding: 12px 20px;
+            margin: 8px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+        }
+        button:hover {
+            opacity: 0.8;
+        }
+        .cnbtn {
+            background-color: #ec3f3f;
+            color: white;
+            padding: 9px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 49%;
+        }
+        .lgnbtn {
+            background-color: #4CAF50;
+            color: white;
+            padding: 9px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 50%;
+        }
+        .imgcontainer {
+            text-align: center;
+            margin: 24px 0 12px 0;
+        }
+        img.avatar {
+            width: 40%;
+            border-radius: 50%;
+        }
+
+        span.psw {
+            float: right;
+            padding-top: 16px;
+        }
+        /* Change styles for span and cancel button on extra small screens */
+        @media screen and (max-width: 300px) {
+            span.psw {
+                display: block;
+                float: none;
+            }
+            .cnbtn {
+                width: 100%;
+            }
+        }
+        .frmalg {
+            margin: auto;
+            width: 40%;
+        }
+
+
+
+    .divrpt
+    {
+        background-color: White;
+        width: fit-content;
+        margin: 4em auto;
+        border: solid;
+    }
+     .Btn
+     {
+         border: none;
+    width: 5em;
+    height: 2em;
+    border-radius: 5px;
+     }
+     
+     .loader-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background-color: #ffffff; /* Set a non-transparent background color */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 9999;
+        }
+
+        .loader {
+            border: 8px solid #3498db;
+            border-top: 8px solid #ffffff; /* Set the background color as the same color as the background */
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear; /* Adjust the animation duration to less than 1 second */   
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+     .textbox
+     {
+         height: 35px;
+         width: 23em;
+     }
+     body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+        .header
+        {
+            position: fixed;
+            width: 100%;
+            top: 0;
+            z-index: 1000;
+        }
+        .heading {
+            background-color: #3498db;
+            color: #fff;
+            padding: 15px;
+            text-align: center;
+        }
+
+        .hdback {
+            background-color: #2c3e50;
+            overflow: hidden;
+        }
+
+        .hdback a {
+            float: left;
+            display: block;
+            color: #fff;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+
+        .ddiv a:hover {
+            background-color: #555;
+            color: #fff;
+        }
+        .divcenter {
+            margin: auto;
+            width: 50%;
+            margin-top: 10em;
+        }
+        .ajax__calendar_container {
+            z-index: 10000 !important;
+        }

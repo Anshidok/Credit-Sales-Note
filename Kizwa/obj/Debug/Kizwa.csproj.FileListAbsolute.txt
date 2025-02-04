@@ -1,0 +1,7 @@
+C:\Users\anshid\Desktop\2010\Kizwa\Kizwa\bin\Kizwa.dll
+C:\Users\anshid\Desktop\2010\Kizwa\Kizwa\bin\Kizwa.pdb
+C:\Users\anshid\Desktop\2010\Kizwa\Kizwa\obj\Debug\Kizwa.dll
+C:\Users\anshid\Desktop\2010\Kizwa\Kizwa\obj\Debug\Kizwa.pdb
+C:\Users\anshid\Desktop\2010\Kizwa\Kizwa\obj\Debug\Kizwa.csprojResolveAssemblyReference.cache
+C:\Users\anshid\Desktop\2010\Kizwa\Kizwa\obj\Debug\RdlCompile.cache
+C:\Users\anshid\Desktop\2010\Kizwa\Kizwa\obj\Debug\RdlCompile.compiled

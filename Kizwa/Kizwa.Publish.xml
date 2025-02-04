@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\anshid\Desktop\Kiz" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="12/06/2023 17:06:17" />
+    <file relUrl="Style/bootstrap/css/bootstrap-reboot.css" publishTime="11/18/2023 13:38:43" />
+    <file relUrl="Pages/Return.aspx" publishTime="12/06/2023 15:41:39" />
+    <file relUrl="Pages/Report.aspx" publishTime="12/06/2023 17:04:13" />
+    <file relUrl="Pages/Edit.aspx" publishTime="12/06/2023 16:26:15" />
+    <file relUrl="Pages/Rdlc.aspx" publishTime="12/06/2023 15:43:59" />
+    <file relUrl="Style/bootstrap/css/bootstrap-grid.min.css" publishTime="11/18/2023 13:38:43" />
+    <file relUrl="Images/kizwa.png" publishTime="11/20/2023 11:03:14" />
+    <file relUrl="Style/bootstrap/css/bootstrap.css" publishTime="11/21/2023 12:16:52" />
+    <file relUrl="bin/Kizwa.pdb" publishTime="12/06/2023 16:50:27" />
+    <file relUrl="Style/bootstrap/js/bootstrap.bundle.min.js" publishTime="11/18/2023 13:38:43" />
+    <file relUrl="Style/bootstrap/js/bootstrap.js" publishTime="11/18/2023 13:38:43" />
+    <file relUrl="Style/bootstrap/js/bootstrap.bundle.js" publishTime="11/18/2023 13:38:43" />
+    <file relUrl="Pages/Login.aspx" publishTime="12/06/2023 16:25:47" />
+    <file relUrl="Style/bootstrap/js/bootstrap.min.js" publishTime="11/18/2023 13:38:43" />
+    <file relUrl="Style/bootstrap/css/bootstrap-reboot.min.css" publishTime="11/18/2023 13:38:43" />
+    <file relUrl="Style/Style.css" publishTime="12/06/2023 16:23:37" />
+    <file relUrl="Pages/index.aspx" publishTime="12/06/2023 17:01:20" />
+    <file relUrl="bin/Kizwa.dll" publishTime="12/06/2023 16:50:27" />
+    <file relUrl="bin/AjaxControlToolkit.dll" publishTime="11/20/2023 14:55:34" />
+    <file relUrl="Style/bootstrap/css/bootstrap.min.css" publishTime="11/18/2023 13:38:43" />
+    <file relUrl="Style/bootstrap/css/bootstrap-grid.css" publishTime="11/18/2023 13:38:43" />
+  </publishProfile>
+</publishData>
